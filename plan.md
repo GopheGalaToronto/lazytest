@@ -34,4 +34,7 @@
 3. Test runner:
     - https://github.com/stretchr/testify/blob/master/suite/suite.go#L59
     - https://golang.org/pkg/testing/
-    - https://github.com/remogatto/prettytest  (implements all of v.0)
+    - https://github.com/remogatto/prettytest  (implements all of v.0 http://goconvey.co
+
+4. Web interface
+    - http://goconvey.co
